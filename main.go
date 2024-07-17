@@ -1,5 +1,7 @@
-package main
+package dev
 
-func main() {
-	
+import "fmt"
+
+func dev() {
+	fmt.Printf("Helo dev")
 }
